@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 2,
+      "caption": "Thaniye Mizhikal song from the Malayalam movie 'Guppy' and sung by Sooraj Santhosh",
+      "thumbnail": "https://i.postimg.cc/Wb7FcSFy/guppy.jpg",
+      "url": "https://www.youtube.com/embed/l0yU-mcCM9I"
+    },
+    {
+      "id": "lmzztmbk",
+      "caption": "Stay is a song released in 2021, weritten by Justin Bieber and The Kid Laroi",
+      "thumbnail": "https://i.postimg.cc/6QJDVVz9/stay-justin.jpg",
+      "url": "https://www.youtube.com/embed/kTJczUoc26U"
+    },
+    {
+      "id": 3,
+      "caption": "perfect -By Ed Sheeran. The song is a romantic ballad written about Ed's then-girlfriend (now wife) Cherry Seaborn",
+      "thumbnail": "https://i.postimg.cc/6QCSQ8M5/perfect-song.jpg",
+      "url": "https://www.youtube.com/embed/2Vv-BfVoq4g"
+    },
+    {
+      "id": 4,
+      "caption": "Ollulleru Song Lyrics penned & music from Traditional Dance song of Mavila Community, sung by Praseetha Chalakudy from Malayalam Ajagajanthara.",
+      "thumbnail": "https://i.postimg.cc/cJy4SQg9/high-energy-song.jpg",
+      "url": "https://www.youtube.com/embed/6R4S_-vgUEw"
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "categoryname": "soulful music",
+      "allVideos": [
+        {
+          "id": 2,
+          "caption": "Thaniye Mizhikal song from the Malayalam movie 'Guppy' and sung by Sooraj Santhosh",
+          "thumbnail": "https://i.postimg.cc/Wb7FcSFy/guppy.jpg",
+          "url": "https://www.youtube.com/embed/l0yU-mcCM9I"
+        }
+      ]
+    },
+    {
+      "categoryname": "High energy mix",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "id": 4,
+      "categoryname": "melody",
+      "allVideos": []
+    },
+    {
+      "id": 5,
+      "categoryname": "Romantic hits",
+      "allVideos": []
+    },
+    {
+      "id": 6,
+      "categoryname": "Hip Hop",
+      "allVideos": []
+    }
+  ],
+  "histories": [
+    {
+      "id": "ln9zs3db",
+      "cardName": "Ollulleru Song Lyrics penned & music from Traditional Dance song of Mavila Community, sung by Praseetha Chalakudy from Malayalam Ajagajanthara.",
+      "url": "https://www.youtube.com/embed/6R4S_-vgUEw",
+      "date": "Oct 276th 2023,12:52:12 PM"
+    },
+    {
+      "id": "ln9zt1ex",
+      "cardName": "Thaniye Mizhikal song from the Malayalam movie 'Guppy' and sung by Sooraj Santhosh",
+      "url": "https://www.youtube.com/embed/l0yU-mcCM9I",
+      "date": "Oct 276th 2023,12:52:56 PM"
+    },
+    {
+      "id": "ln9zt72x",
+      "cardName": "perfect -By Ed Sheeran. The song is a romantic ballad written about Ed's then-girlfriend (now wife) Cherry Seaborn",
+      "url": "https://www.youtube.com/embed/2Vv-BfVoq4g",
+      "date": "Oct 276th 2023,12:53:04 PM"
+    },
+    {
+      "id": "lnbflc34",
+      "cardName": "Thaniye Mizhikal song from the Malayalam movie 'Guppy' and sung by Sooraj Santhosh",
+      "url": "https://www.youtube.com/embed/l0yU-mcCM9I",
+      "date": "Oct 277th 2023,1:02:37 PM"
+    }
+  ]
+}
